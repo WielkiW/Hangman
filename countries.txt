@@ -1,0 +1,6 @@
+Polska	Europa	Warszawa
+Stany Zjednoczone Ameryki	Ameryka Północna	Waszyngron
+Egipt	Afryka	Kair
+Chiny	Azja	Pekin
+Brazylia	Ameryka Południowa	Brasilia
+Australia	Australia	Canberra
